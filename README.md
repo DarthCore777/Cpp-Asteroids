@@ -1,4 +1,4 @@
-# Asteroids-Clone-in-C-
+# Asteroids-Clone-in-C++
 I decided that my first coding project would be Asteroids.
 
 List of mechanics:
@@ -17,4 +17,6 @@ List of mechanics:
 13) Smart spawn (Spawns large UFOs early and small UFOs late)
 14) Increasingly difficult UFO ai that has lower accuracy early on an better accuracy later on
 
-The entire game was made in C++ using SFML.
+The entire game was made in C++ using SFML in Visual Studio.
+
+I compiled it into an EXE, but I included my cpp file so Linux, Mac, and ChromeOS can compile it themselves.
