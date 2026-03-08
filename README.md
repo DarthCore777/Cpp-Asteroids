@@ -18,7 +18,6 @@ List of mechanics:
 14) Increasingly difficult UFO ai that has lower accuracy early on an better accuracy later on
 
 <img width="1202" height="903" alt="image" src="https://github.com/user-attachments/assets/8e61b79e-b5f8-43c9-a306-803eb7a4d795" />
-<img width="227" height="169" alt="image" src="https://github.com/user-attachments/assets/8b6fa78b-a81c-4713-94e0-03b479aef4af" />
 <img width="1189" height="891" alt="image" src="https://github.com/user-attachments/assets/9dae0a9c-69e0-4e6e-a102-695716b8487f" />
 
 The entire game was made in C++ using SFML in Visual Studio.
